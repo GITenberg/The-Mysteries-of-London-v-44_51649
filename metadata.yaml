@@ -1,0 +1,27 @@
+_repo: The-Mysteries-of-London-v-44_51649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, George W. M. (George William MacArthur)
+    aliases:
+    - Reynolds, G. W. M. (George William McArthur)
+    - Reynolds, George William MacArthur
+    birthdate: 1814
+    deathdate: 1879
+    gutenberg_agent_id: '32536'
+    url: http://www.gutenberg.org/2009/agents/32536
+description: ''
+gutenberg_issued: '2016-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: The Mysteries of London, v. 4/4
+url: http://www.gutenberg.org/ebooks/51649
